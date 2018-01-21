@@ -5,7 +5,7 @@ as a Github Page. See it rendered at [adriankoering.github.io](https://adriankoe
 
 # Completion List
 1. KNN Python - 80ish%
-2. Padvinder - 0%
+2. Padvinder - 15%
 3. MFNR - 20%
 4. Cuda KNN - 5%
 5. GraphInference - 90ish%
