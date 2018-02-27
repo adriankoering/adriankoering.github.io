@@ -17,4 +17,4 @@ Library running inference in C++ for neural networks defined in Python using Ten
 Exploring how to use CNN's trained for image classification on the problem of (rudimentary) image segmentation.
 
 ### [Multi-Frame Noise Reduction](https://github.com/adriankoering/multi-frame-noise-reduction)
-Compute an image with reduced camera noise from a stack of images taken in quick succession of the same scene.
+Compute an image with reduced camera noise from a stack of images taken in quick succession of the same scene. Image registration with optical flow from FlowNet.

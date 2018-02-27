@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "Code Portfolio\n\n\nAdrian K\u00f6ring\n\n\nPadvinder\n\n\nObject-oriented, test-driven development of a renderer in Python. Padvinder is meant to be a dutchly flavoured word for pathtracing; encoding the algorithm used for rendering with Guido van Rossum's dutch origins.\n\n\nk-Nearest-Neighbors Classifier\n\n\nIntroducing, implementing and visualizing a k-nearest-neighbors classifier (KNN) in a jupyter-notebook directly displayed by Github.\n\n\nTensorflow CC Inference\n\n\nLibrary running inference in C++ for neural networks defined in Python using Tensorflow.\n\n\nClassification CNN's for Image Segmentation\n\n\nExploring how to use CNN's trained for image classification on the problem of (rudimentary) image segmentation.\n\n\nMulti-Frame Noise Reduction\n\n\nCompute an image with reduced camera noise from a stack of images taken in quick succession of the same scene.",
+            "text": "Code Portfolio\n\n\nAdrian K\u00f6ring\n\n\nPadvinder\n\n\nObject-oriented, test-driven development of a renderer in Python. Padvinder is meant to be a dutchly flavoured word for pathtracing; encoding the algorithm used for rendering with Guido van Rossum's dutch origins.\n\n\nk-Nearest-Neighbors Classifier\n\n\nIntroducing, implementing and visualizing a k-nearest-neighbors classifier (KNN) in a jupyter-notebook directly displayed by Github.\n\n\nTensorflow CC Inference\n\n\nLibrary running inference in C++ for neural networks defined in Python using Tensorflow.\n\n\nClassification CNN's for Image Segmentation\n\n\nExploring how to use CNN's trained for image classification on the problem of (rudimentary) image segmentation.\n\n\nMulti-Frame Noise Reduction\n\n\nCompute an image with reduced camera noise from a stack of images taken in quick succession of the same scene. Image registration with optical flow from FlowNet.",
             "title": "Home"
         },
         {
@@ -32,7 +32,7 @@
         },
         {
             "location": "/#multi-frame-noise-reduction",
-            "text": "Compute an image with reduced camera noise from a stack of images taken in quick succession of the same scene.",
+            "text": "Compute an image with reduced camera noise from a stack of images taken in quick succession of the same scene. Image registration with optical flow from FlowNet.",
             "title": "Multi-Frame Noise Reduction"
         }
     ]
