@@ -4,4 +4,4 @@ This repository hosts a Github page which contains an overview over my code port
 
 ## Implementation
 
-The page is written in markdown in a jupyter-notebook and then converted into html using jupyter-nbconvert. This is obviously overkill but it spares me from writing html manually.
+The page is written in markdown and build with mkDocs.
