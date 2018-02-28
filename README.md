@@ -4,4 +4,4 @@ This repository hosts a Github page which contains an overview over my code port
 
 ## Implementation
 
-The page is written in markdown and build with mkDocs.
+The page is written in markdown and build with Jekyll.
