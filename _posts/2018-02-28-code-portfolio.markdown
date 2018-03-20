@@ -5,20 +5,14 @@ date:   2018-02-28 18:04:30 +0100
 categories: Portfolio
 ---
 
-This is a collection of my recent projects hosted in Github repositories.
+This is an overview of my recent projects available on Github.
 
 ### [Tensorflow CC Inference](https://github.com/adriankoering/tensorflow-cc-inference)
-Library running inference in C++ on previously trained neural networks using Tensorflow.
+A C++ library helping with inference / feed-forward evaluation of trained neural networks. Tested with [GTest](https://github.com/google/googletest) and continuous integration on [Travis CI](https://travis-ci.org/adriankoering/tensorflow-cc-inference).
 
 ### [Padvinder](https://github.com/adriankoering/padvinder)
 
-Object-oriented, test-driven development of a renderer in Python. Padvinder is meant to be a dutchly flavoured word for pathtracing; encoding the algorithm used for rendering with Guido van Rossum's dutch origins.
+Object-oriented, test-driven development of a renderer in Python. Unittests with [Hypothesis](https://hypothesis.works/) continuous integration on [Travis CI](https://travis-ci.org/adriankoering/padvinder). Padvinder is meant to be a dutchly flavoured word for pathtracing; encoding the algorithm used for rendering with Guido van Rossum's dutch origins.
 
 ### [k-Nearest-Neighbors Classifier](https://github.com/adriankoering/k-nearest-neighbors-classifier)
-Introducing, implementing and visualizing a k-nearest-neighbors classifier (KNN) in a jupyter-notebook directly displayed by Github.
-
-### [Multi-Frame Noise Reduction](https://github.com/adriankoering/multi-frame-noise-reduction)
-Compute an image with reduced camera noise from a stack of images taken in quick succession of the same scene. Image registration with optical flow from FlowNet.
-
-### [Classification CNN's for Image Segmentation](https://github.com/adriankoering/classification-cnns-for-segmentation)
-Exploring how to use CNN's trained for image classification on the problem of (rudimentary) image segmentation.
+Implementing and visualizing a k-nearest-neighbors classifier (KNN) in a jupyter-notebook rendered by Github [here](https://github.com/adriankoering/k-nearest-neighbors-classifier/blob/master/k-nearest%20neighbor%20classifier.ipynb).
